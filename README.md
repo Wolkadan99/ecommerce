@@ -1,2 +1,4 @@
 # ecommerce
-Projeto usando Laravel
+Projeto em PHP usando Laravel
+Node.js
+Bootstrap 5
